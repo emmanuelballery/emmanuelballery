@@ -31,7 +31,7 @@ Lycée Carnot à Roanne
 🔽 Compétences
 
 ## Dev' Back - Expert PHP/Symfony
-- ‹?PHP (5 & 7) OOP, psychorigide des standards du web  (PHP FIG, PHPCS, PHPMD ...)
+- ‹?PHP (5 & 7 & 8 ❤️) OOP, psychorigide des standards du web  (PHP FIG, PHPCS, PHPMD ...)
 - Symfony
 - SQL: MySQL, PostGreSQL et NoSQL avec MongoDB
 - Redis
