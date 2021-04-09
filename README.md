@@ -8,9 +8,9 @@ Hello, je suis Emmanuel BALLERY, un Ingénieur en Cognitique et dev web full-sta
 
 ```text
 2014-....    Dev Web Full-Stack Freelance (France)
-2012-2015    Ingénieur R&D Ministère de la Défense (Paris)
+2012-2015    Ingénieur R&D au Ministère de la Défense (Paris)
 2010-2012    Dev Web Freelance (Bordeaux)
-2010-2012    Ingénieur R&D Startup Bordeaux (Bordeaux)
+2010-2012    Ingénieur R&D en Startup (Bordeaux)
 ```
 
 🔽 Formations
