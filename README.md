@@ -4,7 +4,7 @@ Hello 👋
 
 Je suis Ingénieur en Cognitique et passionné par le développement de solutions web innovantes !
 
-## Expériences
+## 🚀 Expériences
 
 ```text
 2021 - ....  ⇝  Président X10 - Conseil en systèmes et logiciels informatiques (France)
@@ -15,7 +15,7 @@ Je suis Ingénieur en Cognitique et passionné par le développement de solution
 2010 - 2012  ⇝  Ingénieur R&D en Startup (Bordeaux)
 ```
 
-## Formations
+## 🏢 Formations
 
 ```text
 2007 - 2010  ⇝  ENSC - École Nationale Supérieure de Cognitique (Bordeaux)
@@ -33,7 +33,7 @@ Je suis Ingénieur en Cognitique et passionné par le développement de solution
                 Mesures Physiques et Informatiques
 ```
 
-## Compétences
+## 💻 Compétences
 
 ### Dev' Back - Expert PHP/Symfony
 
