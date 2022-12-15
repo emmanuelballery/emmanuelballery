@@ -15,24 +15,6 @@ Je suis Ingénieur en Cognitique et passionné par le développement de solution
 2010 - 2012  ⇝  Ingénieur R&D en Startup (Bordeaux)
 ```
 
-## 🏢 Formations
-
-```text
-2007 - 2010  ⇝  ENSC - École Nationale Supérieure de Cognitique (Bordeaux)
-                Institut Polytechnique (Bordeaux)
-                Ingénieur en Cognitique (BAC +5)
-                Master Recherche
-
-2005 - 2007  ⇝  Lycée Claude Fauriel et Étienne Mimard (Saint‐Etienne)
-                Classes Préparatoires aux Grandes Écoles (BAC +2)
-                Physiques et Sciences de l'Ingénieur
-
-.... - 2005  ⇝  Lycée Carnot (Roanne)
-                Baccalauréat Scientifique
-                Sciences de l'Ingénieur
-                Mesures Physiques et Informatiques
-```
-
 ## 💻 Compétences
 
 ### Dev' Back - Expert PHP/Symfony
@@ -69,3 +51,21 @@ Je suis Ingénieur en Cognitique et passionné par le développement de solution
 - Scripting Shell/Bash, Perl, PHP, ...
 - Administration de serveurs Apache & Nginx
 - Maîtrise de l'univers Linux
+
+## 🏢 Formations
+
+```text
+2007 - 2010  ⇝  ENSC - École Nationale Supérieure de Cognitique (Bordeaux)
+                Institut Polytechnique (Bordeaux)
+                Ingénieur en Cognitique (BAC +5)
+                Master Recherche
+
+2005 - 2007  ⇝  Lycée Claude Fauriel et Étienne Mimard (Saint‐Etienne)
+                Classes Préparatoires aux Grandes Écoles (BAC +2)
+                Physiques et Sciences de l'Ingénieur
+
+.... - 2005  ⇝  Lycée Carnot (Roanne)
+                Baccalauréat Scientifique
+                Sciences de l'Ingénieur
+                Mesures Physiques et Informatiques
+```
