@@ -7,8 +7,8 @@ Je suis Ingénieur en Cognitique et passionné par le développement de solution
 ## 🚀 Expériences
 
 ```text
-2021 - ....  ⇝  Président X10 - Conseil en systèmes et logiciels informatiques (France)
-2021 - ....  ⇝  DG TimCity - Solution 360° pour la promotion immobilière (Melun)
+2021 - ....  ⇝  CEO/CTO - Conseil en systèmes et logiciels informatiques (France)
+2021 - ....  ⇝  CEO/CTO TimCity - Solution 360° pour la promotion immobilière (Melun)
 2014 - ....  ⇝  Developpeur Web Full-Stack Freelance (France)
 2012 - 2015  ⇝  Ingénieur R&D au Ministère de la Défense (Paris)
 2010 - 2012  ⇝  Dev Web Freelance (Bordeaux)
