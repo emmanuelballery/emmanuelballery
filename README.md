@@ -1,8 +1,10 @@
-# Emmanuel BALLERY
+# Emmanuel BALLERY - x10
 
 Hello 👋
 
 Je suis Ingénieur en Cognitique et passionné par le développement de solutions web innovantes !
+
+![image](https://user-images.githubusercontent.com/1687685/231096617-ef5f51bb-f47f-4a1e-99b2-a9a3ff6b01ed.png)
 
 ## 🚀 Expériences
 
