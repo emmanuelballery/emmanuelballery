@@ -2,17 +2,15 @@
 
 Hello 👋
 
-Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000. J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR Symfony et son comparse ApiPlatform. Puis, le temps passant, j'ai ajouté des cordes à mon arc : une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker ...
+Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
 
-Je gère aujourd'hui la société x10, avec laquelle je propose des prestations en freelance de conseil et de développement informatique (vous trouverez plus bas les domaines couverts par ces prestations). Je co-gère aussi la société Timcity qui se consacre au développement d'une solution web dédiée à la promotion immobilière.
+**Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations en freelance de conseil et de développement informatique (vous trouverez plus bas les domaines couverts par ces prestations). **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière.
 
-*Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me faire changer d'avis](README.md#-experiences).*
+Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me faire changer d'avis](README.md#-experiences).
 
 *Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](README.md#-compétences).*
 
 *Si vous n'avez pas le temps de lire, [contactez-moi directement](README.md#-contact) !*
-
-*Ha oui, je suis né en 1988 (35 ans), si ça vous intéresse.*
 
 ## 🏫 Formations
 
