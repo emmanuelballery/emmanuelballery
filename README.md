@@ -47,9 +47,9 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 
 ### Dev' Back - Expert PHP/Symfony
 
-- ‹?PHP 5🠒8 OOP, typage fort, psychorigide des standards
-- Symfony 2🠒6 (je ne vous jeterai pas la pière si vous préférez Laravel)
-- SQL: du My, du Maria, du PostGre ou même du NoSQL (avec MongoDB)
+- ‹?PHP 5🠒8 OOP, typage fort, *psychorigide des standards*
+- Symfony 2🠒6 (*je ne vous jeterai pas la pière si vous préférez Laravel*)
+- SQL: du My, du Maria, du PostGre ou même du NoSQL
 - Redis
 - Dev' d'API REST avec API Platform
 - Maîtrise des problématiques de sécurité
@@ -81,11 +81,11 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Administration de serveurs web Apache & Nginx
 - Maîtrise de l'univers Linux
 
-## D'autres trucs en vrac que j'ai fait un jour
+## D'autres trucs en vrac que j'ai fait un jour ?
 
-Ces derniers temps j'ai pas mal bossé sur du Docker + Kubernetes + Openshift (pour Orange).
+Ces derniers temps j'ai pas mal travaillé sur du **GitlabCI**, du **Docker**, du **Kubernetes**, du **Openshift**.
 
-Mais un jour j'ai aussi touché à (liste non exhaustive) : Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, ... trop de mot clé.
+Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB* ... trop de mots clés !
 
 ## ☎️ Contact
 
