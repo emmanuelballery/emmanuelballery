@@ -20,11 +20,11 @@ Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), j
 
 - `2007`  ⇝  *Classes Préparatoires aux Grandes Écoles Physiques et Sciences de l'Ingénieur*
 
-    Lycée Claude Fauriel et Étienne Mimard (*Saint‐Etienne*)
+    **Lycée Claude Fauriel** et **Lycée Étienne Mimard** (*Saint‐Etienne*)
 
 - `2005`  ⇝  *Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques*
 
-    Lycée Carnot (*Roanne*)
+    **Lycée Carnot** (*Roanne*)
 
 ## :rocket: Expériences
 
