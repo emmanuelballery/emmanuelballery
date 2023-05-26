@@ -87,7 +87,7 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 
 Ces derniers temps j'ai pas mal travaillé sur du **GitlabCI**, du **Docker**, du **Kubernetes**, du **Openshift**.
 
-Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB* ... trop de mots clés !
+Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques,* ... trop de mots clés !
 
 ## :phone: Contact
 
