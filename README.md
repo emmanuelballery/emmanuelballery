@@ -6,9 +6,9 @@ Je suis **Ingénieur en Sciences Cognitives** et je développe des applications 
 
 **Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
 
-*Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](README.md#-compétences).*
+*Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](#-compétences).*
 
-*Si vous n'avez pas le temps de lire, [contactez-moi directement](README.md#-contact) !*
+*Si vous n'avez pas le temps de lire, [contactez-moi directement](#-contact) !*
 
 ## 🏫 Formations
 
