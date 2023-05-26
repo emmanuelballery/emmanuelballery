@@ -12,7 +12,7 @@ Je suis **Ingénieur en Sciences Cognitives** et je développe des applications 
 
 ## :school: Formations
 
-Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme d'Ingénieur en 2010.
+Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'Ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme en 2010.
 
 - `2010`  ⇝  *Ingénieur en Cognitique et Master Recherche*
 
