@@ -6,11 +6,11 @@ Je suis **Ingénieur en Sciences Cognitives** et je développe des applications 
 
 **Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
 
-*Pour en savoir plus sur mes compétences techniques, [c'est par là](#-compétences) !*
+*Pour en savoir plus sur mes compétences techniques, [c'est par là](#computer-compétences) !*
 
-*Si vous n'avez pas le temps de lire, [contactez-moi directement](#-contact) !*
+*Si vous n'avez pas le temps de lire, [contactez-moi directement](#phone-contact) !*
 
-## 🏫 Formations
+## :school: Formations
 
 Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme d'Ingénieur en 2010.
 
@@ -26,7 +26,7 @@ Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), j
 
     Lycée Carnot (*Roanne*)
 
-## 🚀 Expériences
+## :rocket: Expériences
 
 J'ai commencé dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
 
@@ -39,7 +39,7 @@ J'ai commencé dans une **startup Bordelaise** qui développait une solution web
 2010 - 2012  ⇝  Ingénieur R&D en Startup (Bordeaux)
 ```
 
-## 💻 Compétences
+## :computer: Compétences
 
 En informatique, je suis plutôt autodidacte. Ma formation consistant principalement à délivrer une expertise scientifique dans l'usage des technologies et des interfaces hommes/machines. J'ai voulu offrir une prestation plus complète **en allant du besoin des utilisateurs jusqu'au développement des solutions**.
 
