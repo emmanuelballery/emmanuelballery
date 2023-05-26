@@ -2,7 +2,7 @@
 
 Hello 👋
 
-Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
+Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience* 😓). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
 
 **Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
 
@@ -91,6 +91,6 @@ Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websocke
 
 ## :phone: Contact
 
-Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/18+Rue+des+Bordes,+10210+Lantages)). Internet y est bon - l'air encore plus. Du coup je fais majoritairement du distanciel. C'est aussi pour ça que mon TJM est plus bas que ce qu'il devrait être.
+Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/X10/@48.0968764,4.207553,1716m/data=!3m1!1e3!4m6!3m5!1s0xa34b1eadba5bdb69:0x40d0c4cdfc10addb!8m2!3d46.2192649!4d2.0517!16s%2Fg%2F11qgkxzq5l?entry=ttu). Internet y est bon - l'air encore plus. On peut jardiner. Du coup je fais majoritairement du distanciel. C'est aussi pour ça que mon TJM est plus bas que ce qu'il devrait être.
 
-⬅️ *Si Github fonctionne bien, vous avez mes informations de contact dans la barre de gauche.*
+↖️ *Si Github fonctionne bien, vous avez mes informations de contact dans la barre de gauche.*
