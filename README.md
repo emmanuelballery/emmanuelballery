@@ -12,17 +12,19 @@ Je suis **Ingénieur en Sciences Cognitives** et je développe des applications 
 
 ## 🏫 Formations
 
-Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une prometteur et toute nouvelle école d'ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme d'Ingénieur en 2010.
+Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme d'Ingénieur en 2010.
 
-```text
-2007 - 2010  ⇝  ENSC - École Nationale Supérieure de Cognitique (Bordeaux)
-                Institut Polytechnique (Bordeaux)
-                Ingénieur en Cognitique + Master Recherche (BAC +5)
-2005 - 2007  ⇝  Lycée Claude Fauriel et Étienne Mimard (Saint‐Etienne)
-                Classes Préparatoires aux Grandes Écoles Physiques et Sciences de l'Ingénieur (BAC +2)
-.... - 2005  ⇝  Lycée Carnot (Roanne)
-                Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques
-```
+- `2010`  ⇝  *Ingénieur en Cognitique et Master Recherche*
+
+    **École Nationale Supérieure de Cognitique** / Institut Polytechnique (*Bordeaux*)
+
+- `2007`  ⇝  *Classes Préparatoires aux Grandes Écoles Physiques et Sciences de l'Ingénieur*
+
+    Lycée Claude Fauriel et Étienne Mimard (*Saint‐Etienne*)
+
+- `2005`  ⇝  *Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques*
+
+    Lycée Carnot (*Roanne*)
 
 ## 🚀 Expériences
 
