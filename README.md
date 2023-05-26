@@ -6,11 +6,13 @@ Je suis **Ingénieur en Sciences Cognitives** et je développe des applications 
 
 Je gère aujourd'hui la société x10, avec laquelle je propose des prestations en freelance de conseil et de développement informatique (vous trouverez plus bas les domaines couverts par ces prestations). Je co-gère aussi la société Timcity qui se consacre au développement d'une solution web dédiée à la promotion immobilière.
 
-*Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me faire changer d'avis](README.md#-experiences)*.
+*Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me faire changer d'avis](README.md#-experiences).*
 
-*Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](README.md#-compétences)*.
+*Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](README.md#-compétences).*
 
-*Si vous n'avez pas le temps de lire, [contactez-moi directement](README.md#-contact)* !
+*Si vous n'avez pas le temps de lire, [contactez-moi directement](README.md#-contact) !*
+
+*Ha oui, je suis né en 1988 (35 ans), si ça vous intéresse.*
 
 ## 🏫 Formations
 
@@ -66,7 +68,7 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 
 ### Data Viz'
 
-- Graph: ChartJs, D3.js, HighCharts, Kibana, FlotJS, Dygraph
+- Graph: ChartJs
 - Cartographie: GoogleMap, LeafletJS, Here
 - Bonne connaissance des concepts du référencement et respect des conventions
 
@@ -76,10 +78,16 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Utilisateur confirmé de Github & Gitlab
 - Tests applicatifs avec PHPUnit et Cypress
 - Intégration continue avec Github Actions, Gitlab CI ...
-- Scripting Shell/Bash, Perl, PHP, ... et déploiement Ansible
+- Scripting Shell/Bash, Perl, PHP, ...
 - Administration de serveurs Linux
 - Administration de serveurs web Apache & Nginx
 - Maîtrise de l'univers Linux
+
+## D'autres trucs en vrac que j'ai fait un jour
+
+Ces derniers temps j'ai pas mal bossé sur du Docker + Kubernetes + Openshift (pour Orange).
+
+Mais un jour j'ai aussi touché à (liste non exhaustive) : Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, ... trop de mot clé.
 
 ## 🏢 Contact
 
