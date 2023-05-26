@@ -41,11 +41,11 @@ J'ai commencé dans une **startup Bordelaise** qui développait une solution web
 
 ## :computer: Compétences
 
-En informatique, je suis autodidacte.
+Issu d'une formation attachée au facteur humain et à l'ergonomie, j'aime comprendre les besoins des utilisateurs pour simplifier leur travail au quotidien.
+Mais j'ai voulu offrir une prestation plus complète, **allant du besoin des utilisateurs jusqu'au développement et à la mise en place de solutions**.
+Pour cette dernière partie, liée à l'informatique, je suis autodidacte.
 
-Ma formation consistant principalement à délivrer une expertise scientifique dans l'usage des technologies et des interfaces hommes/machines. J'ai voulu offrir une prestation plus complète **en allant du besoin des utilisateurs jusqu'au développement des solutions**.
-
-Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon actif. J'ai touché à beaucoup de domaines : *le médical, la sécurité, la cartographie, la comptabilité, la promotion immobilière, l'enchère en ligne, la chasse, CRM, gestion de tickets,* ... Issu d'une formation attachée au facteur humain et à l'ergonomie, j'aime comprendre les besoins des utilisateurs pour simplifier leur travail au quotidien.
+Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon actif. J'ai touché à beaucoup de domaines : *le médical, la sécurité, la cartographie, la comptabilité, la promotion immobilière, l'enchère en ligne, la chasse, CRM, gestion de tickets,* ...
 
 ### Dev' Back - Expert PHP/Symfony
 
