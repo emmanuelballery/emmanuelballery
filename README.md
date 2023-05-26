@@ -4,9 +4,7 @@ Hello 👋
 
 Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
 
-**Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations en freelance de conseil et de développement informatique (vous trouverez plus bas les domaines couverts par ces prestations). **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière.
-
-Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me faire changer d'avis](README.md#-experiences).
+**Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
 
 *Pour en savoir plus sur mes compétences, rendez-vous à la section [Compétences](README.md#-compétences).*
 
@@ -14,7 +12,7 @@ Aujourd'hui, je fais du freelancing, [mais vous pouvez toujours tenter de me fai
 
 ## 🏫 Formations
 
-Si vous voulez vraiment partir de zéro ? Voici mon parcours de formation : je suis originaire de Roanne (Loire), je suis passé par Saint-Etienne pour mes classes préparatoires (Loire) puis Bordeaux (Gironde) pour rejoindre une prometteur et toute nouvelle école d'ingénieur. 
+Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une prometteur et toute nouvelle école d'ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme d'Ingénieur en 2010.
 
 ```text
 2007 - 2010  ⇝  ENSC - École Nationale Supérieure de Cognitique (Bordeaux)
@@ -87,7 +85,7 @@ Ces derniers temps j'ai pas mal bossé sur du Docker + Kubernetes + Openshift (p
 
 Mais un jour j'ai aussi touché à (liste non exhaustive) : Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, ... trop de mot clé.
 
-## 🏢 Contact
+## ☎️ Contact
 
 Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/18+Rue+des+Bordes,+10210+Lantages)). Internet y est bon - l'air encore plus. Du coup je fais majoritairement du distanciel. C'est aussi pour ça que mon TJM est plus bas que ce qu'il devrait être.
 
