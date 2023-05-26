@@ -42,7 +42,7 @@ J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une
 ## :computer: Compétences
 
 Issu d'une formation attachée au facteur humain et à l'ergonomie, j'aime comprendre les besoins des utilisateurs pour simplifier leur travail au quotidien.
-Mais j'ai voulu offrir une prestation plus complète, **allant du besoin des utilisateurs jusqu'au développement et à la mise en place de solutions**.
+J'ai voulu aller plus loin et offrir une prestation complète, **allant du besoin des utilisateurs jusqu'au développement et à la mise en place de solutions**.
 Pour cette dernière partie, liée à l'informatique, je suis autodidacte.
 
 Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon actif. J'ai touché à beaucoup de domaines : *le médical, la sécurité, la cartographie, la comptabilité, la promotion immobilière, l'enchère en ligne, la chasse, les CRM, la gestion de tickets, la recherche, la location saisonnière,* ...
