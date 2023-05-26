@@ -28,7 +28,7 @@ Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), j
 
 ## 🚀 Expériences
 
-J'ai commencé dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "maison" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise j'ai finalement démarré **2 sociétés en 2021** dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière.
+J'ai commencé dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
 
 ```text
 2021 - ....  ⇝  CEO/CTO x10 - Conseil en développement en systèmes et développement web (France)
