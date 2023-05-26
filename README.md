@@ -87,7 +87,7 @@ Ces derniers temps j'ai pas mal travaillé sur du **GitlabCI**, du **Docker**, d
 
 Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB* ... trop de mots clés !
 
-## ☎️ Contact
+## :phone: Contact
 
 Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/18+Rue+des+Bordes,+10210+Lantages)). Internet y est bon - l'air encore plus. Du coup je fais majoritairement du distanciel. C'est aussi pour ça que mon TJM est plus bas que ce qu'il devrait être.
 
