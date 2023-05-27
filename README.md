@@ -2,7 +2,9 @@
 
 Hello 👋
 
-Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
+Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP (qui s'est immensément professionnalisé en 10 ans), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ... Ces derniers temps je travaille beaucoup sur **Symfony**/**ApiPlatform** (**PHP**), **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (...).
+
+Je suis un Ingénieur **Full-Stack** : ma mission démarre parfois à l'analyse terrain, l'UX, l'ergonomie. Elle contient en général du dev back comme du dev front. S'enchaînent ensuite les tests, les déploiements, l'hébergement, ...
 
 **Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
 
@@ -84,8 +86,6 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Maîtrise de l'univers Linux
 
 ### D'autres trucs en vrac que j'ai fait un jour ?
-
-Ces derniers temps j'ai pas mal travaillé sur du **GitlabCI**, du **Docker**, du **Kubernetes**, du **Openshift**.
 
 Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques,* ... trop de mots clés !
 
