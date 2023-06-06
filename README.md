@@ -30,6 +30,7 @@ J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une
 ## :computer: Compétences
 
 Issu d'une formation attachée au facteur humain et à l'ergonomie, j'aime comprendre les besoins des utilisateurs pour simplifier leur travail au quotidien.
+
 J'ai voulu aller plus loin et offrir une prestation complète, **allant du besoin des utilisateurs jusqu'au développement et à la mise en place de solutions**.
 Pour cette dernière partie, liée à l'informatique, je suis autodidacte.
 
@@ -71,9 +72,9 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Administration de serveurs web Apache & Nginx
 - Maîtrise de l'univers Linux
 
-### D'autres trucs en vrac que j'ai fait un jour ?
+### Autres
 
-Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques,* ... trop de mots clés !
+*Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques, ...*
 
 
 ## :school: Formations
