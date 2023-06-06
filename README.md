@@ -14,22 +14,6 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 
 *Si vous n'avez pas le temps de lire, [contactez-moi directement](#phone-contact) !*
 
-## :school: Formations
-
-Vous voulez vraiment partir de zéro ? Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'Ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme en 2010.
-
-- `2010`  ⇝  *Ingénieur en Cognitique et Master Recherche*
-
-    **École Nationale Supérieure de Cognitique** / Institut Polytechnique (*Bordeaux*)
-
-- `2007`  ⇝  *Classes Préparatoires aux Grandes Écoles Physiques et Sciences de l'Ingénieur*
-
-    **Lycée Claude Fauriel** et **Lycée Étienne Mimard** (*Saint‐Etienne*)
-
-- `2005`  ⇝  *Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques*
-
-    **Lycée Carnot** (*Roanne*)
-
 ## :rocket: Expériences
 
 J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
@@ -90,6 +74,23 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 ### D'autres trucs en vrac que j'ai fait un jour ?
 
 Mais un jour j'ai aussi touché à (*liste non exhaustive*) : *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques,* ... trop de mots clés !
+
+
+## :school: Formations
+
+Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'Ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme en 2010.
+
+- `2010`  ⇝  *Ingénieur en Cognitique et Master Recherche*
+
+    **École Nationale Supérieure de Cognitique** / Institut Polytechnique (*Bordeaux*)
+
+- `2007`  ⇝  *Classes Préparatoires aux Grandes Écoles Physiques et Sciences de l'Ingénieur*
+
+    **Lycée Claude Fauriel** et **Lycée Étienne Mimard** (*Saint‐Etienne*)
+
+- `2005`  ⇝  *Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques*
+
+    **Lycée Carnot** (*Roanne*)
 
 ## :phone: Contact
 
