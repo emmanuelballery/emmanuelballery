@@ -14,6 +14,15 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 
 *Si vous n'avez pas le temps de lire, [contactez-moi directement](#phone-contact) !*
 
+**1985** - "Don't learn to code. Soon GUIs will do it all for you."
+
+**2003** - "Don't learn to code. Soon that will all be done offshore for pennies."
+
+**2015** - "Don't learn to code. Soon nocode tools will do it all for you."
+
+**2023** - "Don't learn to code. Soon AI will do it all for you."
+
+
 ## :rocket: Expériences
 
 J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
