@@ -14,13 +14,10 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 
 *Si vous n'avez pas le temps de lire, [contactez-moi directement](#phone-contact) !*
 
-**1985** - "Don't learn to code. Soon GUIs will do it all for you."
-
-**2003** - "Don't learn to code. Soon that will all be done offshore for pennies."
-
-**2015** - "Don't learn to code. Soon nocode tools will do it all for you."
-
-**2023** - "Don't learn to code. Soon AI will do it all for you."
+- **1985** - "Don't learn to code. Soon GUIs will do it all for you."
+- **2003** - "Don't learn to code. Soon that will all be done offshore for pennies."
+- **2015** - "Don't learn to code. Soon nocode tools will do it all for you."
+- **2023** - "Don't learn to code. Soon AI will do it all for you."
 
 
 ## :rocket: Expériences
