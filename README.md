@@ -25,8 +25,9 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
 
 ```text
+2023 - ....  ⇝  CTO/Directeur de projets Sinfin™ (France)
 2021 - ....  ⇝  CEO/CTO x10 - Conseil en développement en systèmes et développement web (France)
-2021 - ....  ⇝  CEO/CTO TimCity - Solution 360° pour la promotion immobilière (Melun)
+2021 - 2023  ⇝  CEO/CTO TimCity - Solution 360° pour la promotion immobilière (Melun)
 2014 - 2021  ⇝  Developpeur Web Full-Stack Freelance en micro (France)
 2012 - 2015  ⇝  Ingénieur R&D au Ministère de la Défense (Paris)
 2010 - 2012  ⇝  Dev Web Freelance en auto (Bordeaux)
