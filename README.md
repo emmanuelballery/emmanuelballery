@@ -2,9 +2,15 @@
 
 Hello 👋
 
-Je suis **CTO/Directeur technique** - **Ingénieur en Sciences Cognitives** de formation - et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP ([qui s'est immensément professionnalisé en 10 ans](https://www.youtube.com/watch?v=ZDZDvMB-O74)), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* …
+Je suis **CTO/Directeur technique** et **Ingénieur en Sciences Cognitives** de formation, développant des applications web professionnelles depuis la fin des années 2000.
+J'ai commencé ma carrière alors que l'écosystème du web se professionnalisait.
+J'ai appris au fil de ses avancées, réussites et erreurs, ce qui a façonné mon parcours.
+J'ai fait des choix que je ne regrette pas : adopter le langage PHP (qui s'est énormément professionnalisé en 10 ans), le framework Symfony et son compagnon ApiPlatform.
+Au fil du temps, j'ai élargi mes compétences : maîtrise de Linux, meilleure gestion des bases SQL, utilisation de Redis, développement front-end avec jQuery, AngularJS, VueJS puis ReactJS, et enfin, Docker.
 
-En tant qu'ingénieur **Full-Stack**, ma mission commence par l'analyse sur le terrain, l'échange avec les clients, l'UX et l'ergonomie. Elle comprend généralement du développement informatique, tant sur le "back-end" que sur le "front-end". Elle se termine par les tests, les déploiements et l'hébergement de la solution produite.
+En tant qu'ingénieur **Full-Stack**, ma mission commence par l'analyse sur le terrain, l'échange avec les clients, l'UX et l'ergonomie.
+Elle comprend généralement du développement informatique, tant sur le "back-end" que sur le "front-end".
+Elle se termine par les tests, les déploiements et l'hébergement de la solution produite.
 
 Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP**), **ReactJS** et **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (…).
 
@@ -12,7 +18,10 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 
 ## :rocket: Expériences
 
-J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert ma SAS en 2021.
+J'ai débuté ma carrière dans une **startup bordelaise**, où j'ai contribué au développement d'une solution web pour le suivi de l'hospitalisation à domicile.
+Par la suite, j'ai été recruté par le **Ministère de la Défense à Paris**, où j'ai travaillé sur la recherche et le développement de solutions internes destinées aux agents du service.
+Après plusieurs années, j'ai transformé mon activité freelance, initialement exercée en soirée, en une activité à plein temps.
+Encouragé par l'évolution des statuts d'auto-entrepreneur puis de micro-entrepreneur, j'ai finalement franchi le pas en 2021 en fondant ma SARL (devenue SAS en 2024), marquant ainsi une nouvelle étape dans ma carrière.
 
 ```text
 2023 - ....  ⇝  CTO/Directeur de projets Sinfin™ (France)
@@ -25,26 +34,25 @@ J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une
 
 ## :computer: Compétences
 
-Issu d'une formation attachée au facteur humain et à l'ergonomie, j'aime comprendre les besoins des utilisateurs pour simplifier leur travail au quotidien.
-
-J'ai voulu aller plus loin et offrir une prestation complète, **allant du besoin des utilisateurs jusqu'au développement et à la mise en place de solutions**.
-Pour cette dernière partie, liée à l'informatique, je suis autodidacte.
-
-Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon actif. J'ai touché à beaucoup de domaines : *le médical, la sécurité, la cartographie, la comptabilité, la promotion immobilière, l'enchère en ligne, la chasse, les CRM, la gestion de tickets, la recherche, la location saisonnière,* ...
+Avec une formation centrée sur le facteur humain et l'ergonomie, j'ai toujours été passionné par la compréhension des besoins des utilisateurs afin de simplifier leur quotidien.
+Désireux d'offrir une prestation complète, j'ai élargi mes compétences pour couvrir l'ensemble du processus, depuis l'analyse des besoins des utilisateurs jusqu'au développement et à la mise en place de solutions informatiques.
+Bien que je sois autodidacte dans le domaine informatique, j'ai développé plus de 100 applications web à ce jour.
+Mon expérience s'étend à de nombreux secteurs : médical, sécurité, cartographie, comptabilité, promotion immobilière, enchères en ligne, chasse, CRM, gestion de tickets, recherche, location saisonnière, et bien d'autres encore.
 
 ### Dev' Back - Expert PHP/Symfony
 
 - ‹?PHP 5🠒8 OOP, typage fort, *psychorigide des standards*
-- Symfony 2🠒6 (*je ne vous jeterai pas la pière si vous préférez Laravel*)
+- Dev' d'API REST avec API Platform
+- Symfony 2🠒7
 - SQL: du My, du Maria, du PostGre ou même du NoSQL
 - Redis
-- Dev' d'API REST avec API Platform
+- ElasticSearch
 - Maîtrise des problématiques de sécurité
 - Conso. d'API : Google, Here, DataGouv, …
 
 ### Dev' Front & Design
 
-- JavaScript: Typescript, VueJS, jQuery & co, AngularJS, BackboneJS, connaissance de React et Angular
+- JavaScript: Typescript, ReactJS, VueJS, jQuery & co, AngularJS, BackboneJS, connaissance de React et Angular
 - ‹HTML› et templating en Twig, Smarty, Pug
 - #CSS (Sass ou Less)
 - Frameworks : Bootstrap, PureCSS, Foundation, où *à la main* …
@@ -72,7 +80,6 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 
 *Ansible, Websockets, RabbitMQ, Elasticsearch, Webdav, Webhooks, Kibana, FlotJS, Dygraph, D3.js, HighCharts, Packagist, MongoDB, Paypal et autres banques, ...*
 
-
 ## :school: Formations
 
 Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour mes classes préparatoires (*Loire*) puis j'ai rejoint une toute nouvelle et prometteuse école d'Ingénieur à Bordeaux (*Gironde*) où j'ai obtenu mon diplôme en 2010.
@@ -93,4 +100,4 @@ Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour me
 
 ↖️ *Si Github fonctionne bien, vous avez mes informations de contact dans la barre de gauche.*
 
-Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/X10/@48.0968764,4.207553,1716m/data=!3m1!1e3!4m6!3m5!1s0xa34b1eadba5bdb69:0x40d0c4cdfc10addb!8m2!3d46.2192649!4d2.0517!16s%2Fg%2F11qgkxzq5l?entry=ttu)). Internet y est bon - l'air encore plus - et on peut jardiner. Du coup je fais majoritairement du distanciel. C'est aussi pour ça que mon TJM est plus bas que ce qu'il devrait être.
+Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/X10/@48.0968764,4.207553,1716m/data=!3m1!1e3!4m6!3m5!1s0xa34b1eadba5bdb69:0x40d0c4cdfc10addb!8m2!3d46.2192649!4d2.0517!16s%2Fg%2F11qgkxzq5l?entry=ttu)). Internet y est bon - l'air encore plus - et on peut jardiner. Du coup je fais majoritairement du distanciel.
