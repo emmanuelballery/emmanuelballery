@@ -4,21 +4,11 @@ Hello 👋
 
 Je suis **CTO/Directeur technique** - **Ingénieur en Sciences Cognitives** de formation - et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP ([qui s'est immensément professionnalisé en 10 ans](https://www.youtube.com/watch?v=ZDZDvMB-O74)), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* …
 
-Je suis un Ingénieur **Full-Stack** : ma mission démarre à l'analyse terrain, l'UX, l'ergonomie. Elle contient en général du developpement informatique "back" comme du "front". S'enchaînent ensuite les tests, les déploiements, l'hébergement, …
+En tant qu'ingénieur **Full-Stack**, ma mission commence par l'analyse sur le terrain, l'échange avec les clients, l'UX et l'ergonomie. Elle comprend généralement du développement informatique, tant sur le "back-end" que sur le "front-end". Elle se termine par les tests, les déploiements et l'hébergement de la solution produite.
 
-Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP**), **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (…).
+Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP**), **ReactJS** et **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (…).
 
-**Je gère aujourd'hui la société x10** avec laquelle je propose des prestations de conseil et de développement informatique. Je suis en parallèle **CTO** de la société Sinfin qui édite une plateforme de gestion de produits en SaaS (PIM, DAM, …).
-
-*Pour en savoir plus sur mes compétences techniques, [c'est par là](#computer-compétences) !*
-
-*Si vous n'avez pas le temps de lire, [contactez-moi directement](#phone-contact) !*
-
-- **1985** - "Don't learn to code. Soon GUIs will do it all for you."
-- **2003** - "Don't learn to code. Soon that will all be done offshore for pennies."
-- **2015** - "Don't learn to code. Soon nocode tools will do it all for you."
-- **2023** - "Don't learn to code. Soon AI will do it all for you."
-
+**Je dirige aujourd'hui la société x10** avec laquelle j'offre des prestations de conseil et de développement informatique. Parallèlement, j'occupe le poste de **CTO chez Sinfin**, une entreprise qui développe une plateforme de gestion de produits en SaaS (PIM, DAM, …).
 
 ## :rocket: Expériences
 
