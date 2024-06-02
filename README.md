@@ -2,13 +2,13 @@
 
 Hello 👋
 
-Je suis **Ingénieur en Sciences Cognitives** et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP ([qui s'est immensément professionnalisé en 10 ans](https://www.youtube.com/watch?v=ZDZDvMB-O74)), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* ...
+Je suis **CTO/Directeur technique** - **Ingénieur en Sciences Cognitives** de formation - et je développe des applications web métiers depuis la fin des années 2000 (*j'ai 35 ans et bientôt 14 ans d'expérience*). J'ai commencé alors que l'écosystème du web s'industrialisait, en apprenant au gré de ses avancées, de ses réussites comme de ses erreurs ... Elles m'ont forgées. J'ai fait des choix que je ne regrette pas aujourd'hui : le langage PHP ([qui s'est immensément professionnalisé en 10 ans](https://www.youtube.com/watch?v=ZDZDvMB-O74)), le framework FR **Symfony** et son comparse **ApiPlatform**. Puis, le temps passant, j'ai ajouté des cordes à mon arc : *une maîtrise de Linux, une meilleure gestion des bases SQL, du Redis, du front en jQuery puis AngularJS puis VueJS, du Docker* …
 
-Je suis un Ingénieur **Full-Stack** : ma mission démarre parfois à l'analyse terrain, l'UX, l'ergonomie. Elle contient en général du dev back comme du dev front. S'enchaînent ensuite les tests, les déploiements, l'hébergement, ...
+Je suis un Ingénieur **Full-Stack** : ma mission démarre à l'analyse terrain, l'UX, l'ergonomie. Elle contient en général du developpement informatique "back" comme du "front". S'enchaînent ensuite les tests, les déploiements, l'hébergement, …
 
-Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP**), **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (...).
+Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP**), **VueJS** (**Javascript**/**Typescript**), **Github Action**/**GitlabCI**, **Docker**, **Kubernetes**/**Openshift** (…).
 
-**Je gère aujourd'hui la société x10**, avec laquelle je propose des prestations de conseil et de développement informatique. **Je co-gère aussi la société Timcity** qui se consacre au développement d'une solution web dédiée à la promotion immobilière. Je suis à 100% freelance, mais je ne suis pas fermé à d'autres propositions, n'hésitez pas.
+**Je gère aujourd'hui la société x10** avec laquelle je propose des prestations de conseil et de développement informatique. Je suis en parallèle **CTO** de la société Sinfin qui édite une plateforme de gestion de produits en SaaS (PIM, DAM, …).
 
 *Pour en savoir plus sur mes compétences techniques, [c'est par là](#computer-compétences) !*
 
@@ -22,13 +22,12 @@ Ces derniers temps je travaille beaucoup avec **Symfony**/**ApiPlatform** (**PHP
 
 ## :rocket: Expériences
 
-J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert **2 sociétés en 2021** *dont l'une à 100% consacrée à l'édition d'un logiciel pour la promotion immobilière*.
+J'ai commencé ma carrière dans une **startup Bordelaise** qui développait une solution web pour le suivi de l'hospitalisation à domicile. Puis j'ai été recruté par le **Ministère de la Défense à Paris** pour faire de la recherche et du développement de solutions "*maison*" à mettre à disposition des agents du service. Le temps venu, j'ai converti mon activité **freelance** du soir en une activité à temps plein ; animé par l'évolution du statut de l'auto puis de la micro-entreprise, j'ai finalement sauté le pas et ouvert ma SAS en 2021.
 
 ```text
 2023 - ....  ⇝  CTO/Directeur de projets Sinfin™ (France)
-2021 - ....  ⇝  CEO/CTO x10 - Conseil en développement en systèmes et développement web (France)
 2021 - 2023  ⇝  CEO/CTO TimCity - Solution 360° pour la promotion immobilière (Melun)
-2014 - 2021  ⇝  Developpeur Web Full-Stack Freelance en micro (France)
+2010 - ....  ⇝  CEO/CTO x10 - Conseil en développement en systèmes et développement web (France)
 2012 - 2015  ⇝  Ingénieur R&D au Ministère de la Défense (Paris)
 2010 - 2012  ⇝  Dev Web Freelance en auto (Bordeaux)
 2010 - 2012  ⇝  Ingénieur R&D en Startup (Bordeaux)
@@ -51,14 +50,14 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Redis
 - Dev' d'API REST avec API Platform
 - Maîtrise des problématiques de sécurité
-- Conso. d'API : Google, Here, DataGouv, ...
+- Conso. d'API : Google, Here, DataGouv, …
 
 ### Dev' Front & Design
 
 - JavaScript: Typescript, VueJS, jQuery & co, AngularJS, BackboneJS, connaissance de React et Angular
 - ‹HTML› et templating en Twig, Smarty, Pug
 - #CSS (Sass ou Less)
-- Frameworks : Bootstrap, PureCSS, Foundation, où *à la main* ...
+- Frameworks : Bootstrap, PureCSS, Foundation, où *à la main* …
 - Outillage comme NPM, Webpack, Gulp, Bower
 - Responsive design bien entendu
 
@@ -73,8 +72,8 @@ Aujourd'hui, j'ai probablement plus de 100 applications web développées à mon
 - Versioning Git
 - Utilisateur confirmé de Github & Gitlab
 - Tests applicatifs avec PHPUnit et Cypress
-- Intégration continue avec Github Actions, Gitlab CI ...
-- Scripting Shell/Bash, Perl, PHP, ...
+- Intégration continue avec Github Actions, Gitlab CI …
+- Scripting Shell/Bash, Perl, PHP, …
 - Administration de serveurs Linux
 - Administration de serveurs web Apache & Nginx
 - Maîtrise de l'univers Linux
