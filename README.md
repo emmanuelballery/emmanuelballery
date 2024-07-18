@@ -95,9 +95,3 @@ Je suis originaire de Roanne (*Loire*), je suis passé par Saint-Etienne pour me
 - `2005`  ⇝  *Baccalauréat Scientifique Sciences de l'Ingénieur et Mesures Physiques et Informatiques*
 
     **Lycée Carnot** (*Roanne*)
-
-## :phone: Contact
-
-↖️ *Si Github fonctionne bien, vous avez mes informations de contact dans la barre de gauche.*
-
-Parceque les questions d'écologie et de bien vivre sont importantes pour moi, j'ai choisi de me cacher dans le fin fond de la forêt de Chaource (si si, [regardez par vous-même](https://www.google.com/maps/place/X10/@48.0968764,4.207553,1716m/data=!3m1!1e3!4m6!3m5!1s0xa34b1eadba5bdb69:0x40d0c4cdfc10addb!8m2!3d46.2192649!4d2.0517!16s%2Fg%2F11qgkxzq5l?entry=ttu)). Internet y est bon - l'air encore plus - et on peut jardiner. Du coup je fais majoritairement du distanciel.
