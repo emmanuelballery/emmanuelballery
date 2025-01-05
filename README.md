@@ -2,7 +2,7 @@
 
 Hello 👋
 
-Je suis **CTO** et **Ingénieur en Sciences Cognitives** de formation, développant des applications web professionnelles depuis la fin des années 2000.
+Je suis **Directeur Technique** et **Ingénieur en Sciences Cognitives** de formation, développant des applications web professionnelles depuis la fin des années 2000.
 J'ai commencé ma carrière alors que l'écosystème du web se professionnalisait.
 J'ai appris au fil de ses avancées, réussites et erreurs, ce qui a façonné mon parcours.
 J'ai fait des choix que je ne regrette pas : adopter le langage PHP (qui s'est énormément professionnalisé en 10 ans), le framework Symfony et son compagnon ApiPlatform.
