@@ -5,7 +5,10 @@
 **CTPO** le jour chez [Sinfin](https://www.sinfin.fr), **gérant** de [x10](https://x10-solutions.fr) le reste du temps, **Ingénieur en Cognitique** pour toujours.
 
 Je développe des applications web depuis la fin des années 2000 — autrement dit, j'ai connu jQuery avant que ce soit vintage.
-Formé pour comprendre les humains, j'ai fini par passer ma vie à parler aux machines. Le destin a de l'humour.
+
+Formé pour comprendre les humains, j'ai fini par passer ma vie à parler aux machines.
+
+Le destin a de l'humour.
 
 ## :man_technologist: En bref
 
