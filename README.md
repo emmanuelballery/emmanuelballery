@@ -30,6 +30,7 @@ Fate has a sense of humor.
 - Cognitive-science graduate — I know *why* users click where they shouldn't. I just can't stop them.
 - Obsessive about PHP standards, and proud of it. My CS Fixer has more rules than a tax code.
 - AI-driven development: Claude, Gemini and ChatGPT are my favourite colleagues. They never grumble in code review.
+- I don't just *code with* AI, I *build* with it: LLM features (assistants, RAG, semantic search) baked into the products, AI agents for the boring parts, and MCP tooling (Model Context Protocol) plugged straight into the delivery chain (Jira, Jenkins, GitLab).
 
 ### :rocket: Journey
 
@@ -53,7 +54,7 @@ I started in a Bordeaux e-health startup, moved on to the DGSE, turned my free e
 | **Front**   | TypeScript · ReactJS · VueJS · *(survivor of jQuery, AngularJS and BackboneJS — three frameworks, zero regrets)* |
 | **DevOps**  | Docker · Kubernetes/Openshift · GitHub Actions · GitlabCI · Ansible · Sentry · Linux · Apache/Nginx             |
 | **Quality** | PHPUnit · Cypress · PHPStan · CS Fixer · Code Review *(the real martial art)*                                   |
-| **Bonus**   | RabbitMQ · Websockets · MongoDB · Kibana · UX · DX · SEO · Accessibility                                        |
+| **Bonus**   | RabbitMQ · Websockets · MongoDB · Kibana · UX · DX · SEO · Accessibility · AI/LLM · MCP                         |
 
 > I bet on PHP back when owning up to it wasn't fashionable. Symfony proved me right.
 
@@ -88,6 +89,7 @@ Le destin a de l'humour.
 - Diplômé en sciences cognitives — je sais *pourquoi* les utilisateurs cliquent là où il ne faut pas. Je ne peux juste pas les en empêcher.
 - Psychorigide des standards PHP, et fier de l'être. Mon CS Fixer a plus de règles que le Code Civil.
 - AI-driven development : Claude, Gemini et ChatGPT sont mes collègues préférés. Ils ne râlent jamais en code review.
+- Je ne fais pas que *coder avec* l'IA, je *construis* avec : fonctionnalités LLM (assistants, RAG, recherche sémantique) intégrées aux produits, agents IA pour les tâches ingrates, et outillage MCP (Model Context Protocol) branché directement sur la chaîne de delivery (Jira, Jenkins, GitLab).
 
 ### :rocket: Parcours
 
@@ -111,7 +113,7 @@ J'ai commencé dans une startup bordelaise en e-santé, enchaîné à la DGSE, t
 | **Front**   | TypeScript · ReactJS · VueJS · *(survivant de jQuery, AngularJS et BackboneJS — trois frameworks, zéro regret)* |
 | **DevOps**  | Docker · Kubernetes/Openshift · GitHub Actions · GitlabCI · Ansible · Sentry · Linux · Apache/Nginx             |
 | **Qualité** | PHPUnit · Cypress · PHPStan · CS Fixer · Code Review *(le vrai sport de combat)*                                |
-| **Bonus**   | RabbitMQ · Websockets · MongoDB · Kibana · UX · DX · SEO · Accessibilité                                        |
+| **Bonus**   | RabbitMQ · Websockets · MongoDB · Kibana · UX · DX · SEO · Accessibilité · IA/LLM · MCP                         |
 
 > J'ai fait le choix de PHP à une époque où ce n'était pas encore à la mode d'assumer. Symfony m'a donné raison.
 
