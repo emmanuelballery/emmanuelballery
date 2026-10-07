@@ -1,60 +1,14 @@
 # Emmanuel BALLERY
 
-- 💡 [x10-solutions.fr](https://x10-solutions.fr)
+Cognitics engineer turned Tech Lead, PHP & Symfony addict, and owner of [x10](https://x10-solutions.fr), my technical consulting company, since 2010.
+
+*Ingénieur cogniticien devenu Tech Lead, accro à PHP & Symfony, et gérant de [x10](https://x10-solutions.fr), ma société de conseil technique, depuis 2010.*
 
 ---
 
 - 🇬🇧 [English](#lang-en)
 - 🇫🇷 [Français](#lang-fr)
-
----
-
-```php
-<?php
-
-declare(strict_types=1);
-
-namespace X10\People;
-
-use X10\Contracts\{CognitiveScientist, Engineer, TechLead};
-use X10\Domain\{Problem, Solution};
-
-/**
- * PHPStan level: max. Baseline: my conscience.
- */
-final class EmmanuelBallery implements Engineer, CognitiveScientist, TechLead
-{
-    public const string BASED_IN = 'Metz, France';
-    public const int SHIPPING_SINCE = 2009;
-
-    #[\Deprecated(message: 'Survived it. Not going back.')]
-    public const string FAVOURITE_JS_LIBRARY = 'jQuery';
-
-    public int $yearsOfExperience {
-        get => (int) date('Y') - self::SHIPPING_SINCE;
-    }
-
-    /** @var list<string> */
-    public private(set) array $hats = ['Tech Lead @ Alumnforce', 'Owner @ x10'];
-
-    /** @var list<string> */
-    public private(set) array $favouriteColleagues = ['Claude', 'Gemini', 'ChatGPT'];
-
-    public function solve(Problem $problem): Solution
-    {
-        return $problem
-            |> $this->understandTheHumans(...)
-            |> $this->talkToTheMachines(...)
-            |> $this->writeTheTests(...)
-            |> $this->ship(...);
-    }
-
-    public function whyDidTheUserClickThere(): never
-    {
-        throw new \LogicException("I know why. I just can't stop them.");
-    }
-}
-```
+- 🐘 [Développeur](#lang-dev) — same person, compiled.
 
 ---
 
@@ -219,3 +173,56 @@ J'ai commencé en stage dans une startup bordelaise en e-santé, créé x10 enco
 - `2005` — **Bac S SI/MPI** · Lycée Carnot, Roanne
 
 *Roanne → Saint-Étienne → Bordeaux → Paris → Metz → la France entière. Itinéraire d'un dev' gâté.*
+
+---
+
+<a id="lang-dev"></a>
+
+## 🐘 Développeur
+
+```php
+<?php
+
+declare(strict_types=1);
+
+namespace X10\People;
+
+use X10\Contracts\{CognitiveScientist, Engineer, TechLead};
+use X10\Domain\{Problem, Solution};
+
+/**
+ * PHPStan level: max. Baseline: my conscience.
+ */
+final class EmmanuelBallery implements Engineer, CognitiveScientist, TechLead
+{
+    public const string BASED_IN = 'Metz, France';
+    public const int SHIPPING_SINCE = 2009;
+
+    #[\Deprecated(message: 'Survived it. Not going back.')]
+    public const string FAVOURITE_JS_LIBRARY = 'jQuery';
+
+    public int $yearsOfExperience {
+        get => (int) date('Y') - self::SHIPPING_SINCE;
+    }
+
+    /** @var list<string> */
+    public private(set) array $hats = ['Tech Lead @ Alumnforce', 'Owner @ x10'];
+
+    /** @var list<string> */
+    public private(set) array $favouriteColleagues = ['Claude', 'Gemini', 'ChatGPT'];
+
+    public function solve(Problem $problem): Solution
+    {
+        return $problem
+            |> $this->understandTheHumans(...)
+            |> $this->talkToTheMachines(...)
+            |> $this->writeTheTests(...)
+            |> $this->ship(...);
+    }
+
+    public function whyDidTheUserClickThere(): never
+    {
+        throw new \LogicException("I know why. I just can't stop them.");
+    }
+}
+```
