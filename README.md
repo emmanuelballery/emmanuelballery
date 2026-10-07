@@ -9,6 +9,55 @@
 
 ---
 
+```php
+<?php
+
+declare(strict_types=1);
+
+namespace X10\People;
+
+use X10\Contracts\{CognitiveScientist, Engineer, TechLead};
+use X10\Domain\{Problem, Solution};
+
+/**
+ * PHPStan level: max. Baseline: my conscience.
+ */
+final class EmmanuelBallery implements Engineer, CognitiveScientist, TechLead
+{
+    public const string BASED_IN = 'Metz, France';
+    public const int SHIPPING_SINCE = 2009;
+
+    #[\Deprecated(message: 'Survived it. Not going back.')]
+    public const string FAVOURITE_JS_LIBRARY = 'jQuery';
+
+    public int $yearsOfExperience {
+        get => (int) date('Y') - self::SHIPPING_SINCE;
+    }
+
+    /** @var list<string> */
+    public private(set) array $hats = ['Tech Lead @ Alumnforce', 'Owner @ x10'];
+
+    /** @var list<string> */
+    public private(set) array $favouriteColleagues = ['Claude', 'Gemini', 'ChatGPT'];
+
+    public function solve(Problem $problem): Solution
+    {
+        return $problem
+            |> $this->understandTheHumans(...)
+            |> $this->talkToTheMachines(...)
+            |> $this->writeTheTests(...)
+            |> $this->ship(...);
+    }
+
+    public function whyDidTheUserClickThere(): never
+    {
+        throw new \LogicException("I know why. I just can't stop them.");
+    }
+}
+```
+
+---
+
 <a id="lang-en"></a>
 
 ## 🇬🇧 English
@@ -34,6 +83,24 @@ Fate has a sense of humor.
 - AI-driven development: Claude, Gemini and ChatGPT are my favourite colleagues. They never grumble in code review.
 - I don't just *code with* AI, I *build* with it: a Claude Code plugin for my team (Jira, Sentry and Slack MCP, GitLab, Jenkins, MR review), 3 domain MCP servers being finalized, an autonomous agent turning Jira tickets into GitLab fix MRs (rolling out), and a semantic search POC (Voyage AI embeddings + pgvector).
 
+<details>
+<summary>🕶️ <b>Declassified file</b> — DGSE, 2012-2015 (partially)</summary>
+
+```text
+EMPLOYER ....... French Ministry of Armies — DGSE
+ROLE ........... Full Stack Web Engineer / R&D
+LOCATION ....... Paris, ████████████████
+WORKED ON ...... access control, cryptography, audit trails
+ALSO WORKED ON . ████████████████████████████████
+STACK .......... PHP, Symfony, AngularJS, Linux
+CODENAME ....... ██████████
+COFFEE ......... ████████████████████████████████████ (litres)
+```
+
+> I could tell you more, but then I'd have to refactor you.
+
+</details>
+
 ### :rocket: Journey
 
 ```text
@@ -47,6 +114,8 @@ Fate has a sense of humor.
 ```
 
 I started as an intern in a Bordeaux e-health startup, founded x10 while still a student, moved on to the DGSE, then grew key account after key account — including Orange, loyal for over ten years. A CTO seat, a CTPO seat and a few thousand `composer update` later, here I am a technical referent working fully remote — and still running x10.
+
+> Full release notes: [CHANGELOG.md](CHANGELOG.md). Semantic versioning applies. Mostly.
 
 ### :wrench: Stack
 
@@ -96,6 +165,24 @@ Le destin a de l'humour.
 - AI-driven development : Claude, Gemini et ChatGPT sont mes collègues préférés. Ils ne râlent jamais en code review.
 - Je ne fais pas que *coder avec* l'IA, je *construis* avec : un plugin Claude Code pour mon équipe (MCP Jira, Sentry et Slack, GitLab, Jenkins, relecture de MR), 3 serveurs MCP métier en cours de finalisation, un agent autonome qui transforme un ticket Jira en MR GitLab de correctif (en cours de déploiement), et un POC de recherche sémantique (embeddings Voyage AI + pgvector).
 
+<details>
+<summary>🕶️ <b>Dossier déclassifié</b> — DGSE, 2012-2015 (partiellement)</summary>
+
+```text
+EMPLOYEUR ...... Ministère des Armées — DGSE
+POSTE .......... Ingénieur Web Full Stack / R&D
+LIEU ........... Paris, ████████████████
+TRAVAUX ........ gestion des accès, cryptographie, traçabilité
+AUTRES TRAVAUX . ████████████████████████████████
+STACK .......... PHP, Symfony, AngularJS, Linux
+NOM DE CODE .... ██████████
+CAFÉ ........... ████████████████████████████████████ (litres)
+```
+
+> Je pourrais vous en dire plus, mais ensuite je devrais vous refactorer.
+
+</details>
+
 ### :rocket: Parcours
 
 ```text
@@ -109,6 +196,8 @@ Le destin a de l'humour.
 ```
 
 J'ai commencé en stage dans une startup bordelaise en e-santé, créé x10 encore étudiant, enchaîné à la DGSE, puis grandi grand compte après grand compte — dont Orange, fidèle depuis plus de dix ans. Un fauteuil de CTO, un de CTPO et quelques milliers de `composer update` plus tard, me voilà référent technique en full remote — et toujours gérant de x10.
+
+> Notes de version complètes : [CHANGELOG.md](CHANGELOG.md). Versionnage sémantique respecté. Presque.
 
 ### :wrench: Stack
 
